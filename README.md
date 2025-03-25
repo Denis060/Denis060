@@ -3,7 +3,7 @@
 🎓 MSc Data Science @ Pace University | 📍 From Sierra Leone, based in the US  
 💡 Passionate about: Data Science • AI • Machine Learning • Public Impact Projects  
 🚀 Building: AfriRise Hub | Smile TV Africa | Master Data Analysis  
-📬 Reach me: [LinkedIn]([https://www.linkedin.com/in/ibrahim-denis-fofanah](https://www.linkedin.com/in/ibrahim-denis-fofanahnah-3a38261ab/)) | [Email](mailto:ibrahimdenisfofanah060@gmail.com)
+📬 Reach me: [LinkedIn]((https://www.linkedin.com/in/ibrahim-denis-fofanahnah-3a38261ab/)) | [Email](mailto:ibrahimdenisfofanah060@gmail.com)
 
 ---
 
