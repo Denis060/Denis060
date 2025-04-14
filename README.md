@@ -7,7 +7,7 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/ibrahim-denis-fofanahnah-3a3826
 
 ---
 
-### 🔭 Current Projects
+### Current Projects
 - **Loan Default Prediction** — Class project using ML to support financial decision-making.
 - **Accident Hotspot Identification & Prediction** — Spatial data analysis for road safety.
 - **Smile TV Africa** — Creating authentic African stories through film and media.
