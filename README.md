@@ -5,14 +5,38 @@ Passionate about: Data Science • AI • Machine Learning • Public Impact Pro
 Building: AfriRise Hub | Smile TV Africa | Master Data Analysis  
 Reach me: [LinkedIn](https://www.linkedin.com/in/ibrahim-denis-fofanahnah-3a38261ab/) | [Email](mailto:ibrahimdenisfofanah060@gmail.com)
 
+
 ---
+
+### Roadmap & Future Plans
+- Expand Data Assistant Pro with real-time analytics and AI-driven insights
+- Launch new features for AfriRise Hub to support more African youth
+- Collaborate with partners to scale Smile TV Africa’s reach
+- Continue research in accident prediction and prevention
+
+---
+
+### Contributing
+Contributions, ideas, and collaborations are welcome!
+
+To contribute:
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+For questions or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ibrahim-denis-fofanahnah-3a38261ab/) or [Email](mailto:ibrahimdenisfofanah060@gmail.com).
+
 
 ### Current Projects
 - **MindMate AI (IBM Hackathon)** — Mental health triage assistant built with IBM watsonx & Flask.
+- **Data Assistant Pro** — Enterprise-Grade Data Analysis Platform for advanced analytics, reporting, and business intelligence at scale.
 - **Loan Default Prediction** — Class project using ML to support financial decision-making.
 - **Accident Hotspot Identification & Prediction** — Spatial data analysis for road safety.
 - **Smile TV Africa** — Creating authentic African stories through film and media.
 - **AfriRise Hub** — A platform to empower African youth with opportunities.
+
 
 ---
 
