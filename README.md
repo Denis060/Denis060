@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibrahim Denis Fofanah
+I'm Ibrahim Denis Fofanah
 
 **MSc Data Science @ Pace University**  
 From **Sierra Leone**, based in the **United States**
